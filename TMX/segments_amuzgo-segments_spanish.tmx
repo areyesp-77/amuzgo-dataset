@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header
+    creationtool="LF Aligner"
+    creationtoolversion="3.12"
+    datatype="unknown"
+    segtype="sentence"
+    adminlang="AZG"
+    srclang="AZG"
+    o-tmf="TW4Win 2.0 Format"
+  >
+  </header>
+  <body>
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Twe&apos; nkwi xue m&apos;an kwi ti&apos; tyo ndye ts&apos;a ti&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>Hubo una vez un zorro</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ts&apos;ian jndë, tyua&apos; ju&apos; sku&apos; ti&apos; k&apos;a ti&apos; jndë,</seg></tuv>
+<tuv xml:lang="ES"><seg>que trabajaba en el campo, temprano molía su esposa [y] él iba al monte.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Mo&apos; twe&apos; nkwi xue t-ja ti&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>Pero hubo un día</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>të ki tsa ti&apos; ts&apos;ian,</seg></tuv>
+<tuv xml:lang="ES"><seg>que fue al trabajo</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>no&apos; ya tje ti&apos; tyua&apos; je,</seg></tuv>
+<tuv xml:lang="ES"><seg>y cuando llegó más temprano a [su] casa</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>t&apos;aa &apos;nna sku&apos; ti&apos; k&apos;on,</seg></tuv>
+<tuv xml:lang="ES"><seg>ya no se encontraba su esposa.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>No&apos; ma&apos; kje tats&apos;on ti&apos; ng&apos;e të non tsan nji,</seg></tuv>
+<tuv xml:lang="ES"><seg>De inmediato se enteró que pasó una persona malvada</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>të &apos;yon jon sku&apos; ti&apos;, xue&apos; jon sku&apos; ti&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>que se robó a su esposa.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>No jo,</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>&apos;nni &apos;nna ntsa&apos; ti&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>¿qué haría el zorro?</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ma të kjo ti&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>Sólo se sentó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>t&apos;eo ti&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>y lloró,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ndo&apos; hu xjen &apos;nein tje kwi ki tsian,</seg></tuv>
+<tuv xml:lang="ES"><seg>(y) en ese momento llegó un tigre,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tso&apos; ki tsian an&apos;:</seg></tuv>
+<tuv xml:lang="ES"><seg>dijo el tigre:</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ndo&apos; u&apos; tyo ndye re, ndu ma tyo&apos;, &apos;a jo je.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;y tú amigo zorro, ¿por qué lloras?&quot;</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ma t&apos;eo ma ng&apos;e</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Lloro porque</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>hu tsan nji tje jon b&apos;a no&apos; tsia na tja jon</seg></tuv>
+<tuv xml:lang="ES"><seg>la persona malvada llegó a mi casa y cuando se fue</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>të &apos;yon jon sku&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>se llevó a mi esposa&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>No&apos; jo tso ki tsian an&apos;: ti&apos; ndyoto</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces le dijo el tigre: &quot;no llores</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>no&apos; ti&apos;nkon&apos; tonyo ma tson&apos; sku&apos; nein jo kion kwe,</seg></tuv>
+<tuv xml:lang="ES"><seg>y no te preocupes, tu esposa hoy la voy a ir a traer&quot;,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tso ki tsian an&apos; nnu ti&apos;tyondyee&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>dijo el tigre al zorro.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo jnon ti&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces el zorro</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>na&apos; t&apos;ëo&apos; ti&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>dejó de llorar.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Tja ki tsian ya na tje ki tsianan&apos; b&apos;a tsan nji i&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>Fue el tigre a la casa de la persona malvada, cuando llegó a la casa de la persona malvada,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ya jo tso o&apos; : nkia chjo b&apos;a re, taa &apos;nna t&apos;a</seg></tuv>
+<tuv xml:lang="ES"><seg>en ese momento dijo: &quot;vengo a tu casa amigo&quot;, no contestó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tsan nji i&apos; b&apos;i jon.</seg></tuv>
+<tuv xml:lang="ES"><seg>la persona malvada estaba enojada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>No&apos; u&apos; re, &apos;nni &apos;nna ma ndue&apos; ma nti&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Y tú amigo, ¿qué cosa andas buscando?&quot;</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tsit&apos;uan tson&apos; re, ja njo kwaxye ama yu u&apos; njoyon sku ti&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Disculpa amigo, vengo a preguntar si tú en verdad te robaste a la esposa</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>sku ti&apos; tyondyee&apos;, t&apos;io ti&apos; m&apos;a ti&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>del zorro, el amigo está llorando&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ntjo je ki ndye</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Aquí no puedes</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ntjo je ki ndye nkwaxye nnö&apos;, tsan nji b&apos;i jon. &apos;nni &apos;nna</seg></tuv>
+<tuv xml:lang="ES"><seg>preguntar nada&quot;, respondió enojada la persona malvada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>nja an, tyon tinkia ndhe bi na ya&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>Se agarraron [y] se pegaron.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Si ki ty&apos;e</seg></tuv>
+<tuv xml:lang="ES"><seg>El tigre empujó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ki tsian an&apos; tsan nji i&apos; ni kwe jon tinkia ndhe.</seg></tuv>
+<tuv xml:lang="ES"><seg>a la persona malvada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ma jo n&apos;ei tëkits&apos;a ki tsian an&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>Nada más eso fue hacer el tigre.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ya njo je ta &apos;nna jndë njo yon ki tsian an&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>(Cuando) volvió sin poder traer de regreso</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>sku ti&apos; tyondyee&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>a la esposa del zorro,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ndye të &apos;yon o&apos; to tja o&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>(después) se fue y el zorro</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>hu ti&apos;tyondye tëkjo nkwe</seg></tuv>
+<tuv xml:lang="ES"><seg>se sentó otra vez</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ti&apos; tyo ti&apos; mang&apos;e sku ti&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>[y] estuvo llorando porque a su mujer</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tsan nji të &apos;yon jon.</seg></tuv>
+<tuv xml:lang="ES"><seg>se la había robado una persona malvada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo tje kwi ki so ndye t&apos;oan tyë&apos; ndye ra.</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces llegó una vaca con cuernos grandes y filosos.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo tso ki sondyee&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>La vaca le dijo</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>u&apos; ndu ma t&apos;ëo&apos; retyondye.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;¿por qué lloras amigo zorro?&quot;</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ndu ti&apos;ndyio sku&apos; të yon</seg></tuv>
+<tuv xml:lang="ES"><seg>la persona malvada&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tsan nji. &apos;a ndatsu &apos;a tji ya.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;¿Estás seguro?&quot;</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Tji ya, mo tanyen tso</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Estoy seguro&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ki so ndye e&apos; nein jo kio an, tja ro ki sondyee&apos; tje ti&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;iré hoy a traerla&quot;, la vaca se fue [y] cuando la vaca llegó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>m&apos;a tsan nji i&apos; taa b&apos;a&apos; jon b&apos;i jon &apos;nni &apos;nna</seg></tuv>
+<tuv xml:lang="ES"><seg>a la casa de la persona malvada, enojada preguntó &quot;¿qué</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ma ndue banty&apos;i ntjo.</seg></tuv>
+<tuv xml:lang="ES"><seg>andas buscando por aquí?&quot;</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Njo tso ki sondyee&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Vine -contestó la vaca- porque</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ng&apos;eu&apos; øjno yon sku ti&apos; tyondyee&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>tú te llevaste a la esposa del amigo zorro</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>no&apos; hu ti&apos; tya ndho ti&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>y él se quedó triste&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>&apos;Nni &apos;nna nja o&apos; ma&apos; ti&apos; ndhe ra ya</seg></tuv>
+<tuv xml:lang="ES"><seg>¿Qué hicieron?</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ko ninkiandhe.</seg></tuv>
+<tuv xml:lang="ES"><seg>Solamente se golpearon.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Tja nkwe o&apos; m&apos;an tyondyee&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>Después regresó la vaca donde se encontraba el zorro.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ta &apos;nna jndë tyondyere be ndhe</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;No se pudo amigo, nada más</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ti-nkia.</seg></tuv>
+<tuv xml:lang="ES"><seg>nos pusimos a pelear&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jndë je ma&apos; tja ki so ndye e&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>Después de eso se fue la vaca.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Tyondyee&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>El zorro</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ntjo nkwe t&apos;ëo&apos; nkwe ti&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>se quedó triste de nuevo.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo tje kwi tyosu, kio&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces llegó un conejo, un animal</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>lu k&apos;en, u&apos; re &apos;nni &apos;nna tjon ma t&apos;yeo</seg></tuv>
+<tuv xml:lang="ES"><seg>pequeño, &quot;tú amigo ¿por qué lloras?&quot;,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>&apos;ajo tyosu re, ja ra tso o&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>preguntó el conejo.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>sku&apos; të&apos;yon tsan nji no&apos; tsian</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Lloro porque</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>na nein ta&apos;naakokjwe jon ma ni jo</seg></tuv>
+<tuv xml:lang="ES"><seg>a mi esposa se la llevó una persona malvada</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>m&apos;an jon b&apos;a tsan nji.</seg></tuv>
+<tuv xml:lang="ES"><seg>y todavía no regresa</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ndye tso tyosu,</seg></tuv>
+<tuv xml:lang="ES"><seg>de la casa de la persona malvada&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ja nkjo jo kio an&apos; nein.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Mira -dijo el conejo-</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>No&apos; jo</seg></tuv>
+<tuv xml:lang="ES"><seg>iré a traerla hoy&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tso tyondye jekijndë ntsa&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;No vas a poder -contestó el zorro-</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>re tyosu, jndë tye&apos; n&apos;an na</seg></tuv>
+<tuv xml:lang="ES"><seg>amigo conejo, ya fueron personas</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>t&apos;oan chen mo&apos; ta jndë jnda an&apos;,</seg></tuv>
+<tuv xml:lang="ES"><seg>más grandes y no pudieron&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>&apos;amo&apos; jo &apos;achi n&apos;amein na tyen be sa na ndha an,</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Sí, pero ellos nada más fueron a pelear</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tso tyosu nnu tyondyee&apos;, tik&apos;o an ng&apos;e tke an</seg></tuv>
+<tuv xml:lang="ES"><seg>-dijo el conejo al zorro- no van de forma madura</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>na ma yu ya ni ts&apos;ian ko&apos;oen.</seg></tuv>
+<tuv xml:lang="ES"><seg>para hacer un buen trabajo&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Na nein ja jo, tso tyos u&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Hoy iré&quot;, dijo el conejo.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Tjaro tyosu u&apos; ndo&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>cuando llegó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ya na tje tyosu u&apos; b&apos;a tsan nji</seg></tuv>
+<tuv xml:lang="ES"><seg>saludó, pero la persona malvada le contestó enojada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ndo chjo b&apos;a bi&apos; tso tsan nji ki ndyo jndë je.</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces, el conejo dijo &quot;¿por qué eres</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ya jo, ma junti&apos; tyosu u&apos; tso o&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>tan orgullosa en tu casa persona malvada?</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ndu =je u&apos; tsan nji ya ke&apos;tson ba&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>Cuando llegas a la casa de alguien</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>no&apos; ja nchji ng&apos;e ya na b&apos;a ts&apos;an n-kje</seg></tuv>
+<tuv xml:lang="ES"><seg>tienes que decirle a la persona que pase y tome asiento</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ntsu nnu ts&apos;an kuenon jon kjo jon</seg></tuv>
+<tuv xml:lang="ES"><seg>y tú eres muy arrogante&quot;, le dijo</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>no&apos; u&apos; ji ke&apos; ma tsineinre tso</seg></tuv>
+<tuv xml:lang="ES"><seg>el conejo a la persona malvada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tyosu u&apos; nnu tsan nji.</seg></tuv>
+<tuv xml:lang="ES"><seg>Después la persona malvada sacó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jndë tsan nji i&apos; tji jon</seg></tuv>
+<tuv xml:lang="ES"><seg>una jícara de agua y se la dio al conejo y [éste]</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Kwi tsua nda ti&apos;jon ndyo tyosu u&apos; jnon</seg></tuv>
+<tuv xml:lang="ES"><seg>bebió de la bandeja.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ti&apos; i&apos; tsua ny&apos;ö o&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>Cuando estaba bebiendo,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ya na jnon tyosu tsua a&apos; ny&apos;ö o&apos; hu xjen nein</seg></tuv>
+<tuv xml:lang="ES"><seg>en ese momento, movió las orejas.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>sintsjero o&apos; nonki o&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces, el conejo llamó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo tuan ro tyosu u&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>a la persona malvada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>u&apos; tsan nji re.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;¿Es esta agua la que tomas?&quot;</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>&apos;Aju nda tio ba ma u&apos;a</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Sí&quot;, contestó la persona malvada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>jo tso tsan nji.</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces tomó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>&apos;Atikindia ji ba t&apos;ya jni, kinokindya&apos; yo nön&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>la persona malvada agua de la olla: &quot;en verdad que está sucia el agua&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo tjon</seg></tuv>
+<tuv xml:lang="ES"><seg>En ese momento</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tsan nji ki xua a&apos;: ma yu na t&apos;ya na tio o&apos; .</seg></tuv>
+<tuv xml:lang="ES"><seg>mandó a la esposa del zorro a traer agua limpia</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Hu xjen &apos;nein je</seg></tuv>
+<tuv xml:lang="ES"><seg>hasta el río.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>njon tsan nji sku tyondyee&apos; tëkioo&apos; na tio ntju</seg></tuv>
+<tuv xml:lang="ES"><seg>El conejo vio hacia donde se fue</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>xi&apos; tsjo na m&apos;an tsui&apos; i&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg>la persona que mandaron por el agua.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ntia&apos; chen tyosu u&apos; tonkio</seg></tuv>
+<tuv xml:lang="ES"><seg>Después, le dijo el amigo</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ts&apos;an y&apos;on jon tsjo na nkujon nda.</seg></tuv>
+<tuv xml:lang="ES"><seg>conejo a la persona malvada, &quot;tú persona malvada, ¿en dónde</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo tso ti&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>puedo orinar?&quot;</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tyosu nnu tsan nji, u&apos; re tsan nji &apos;atayujon</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Ahí mismo párate y orina&quot;,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ya nchiu ts&apos;an jo ro kuendje&apos; n chiu,</seg></tuv>
+<tuv xml:lang="ES"><seg>le contestó la persona malvada.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tso tsan nji.</seg></tuv>
+<tuv xml:lang="ES"><seg>Entonces,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Jo tju tyosu u&apos;, kwi tekeno&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>saltó el conejo, volteó,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>xi&apos; ta&apos;ndia tsan nji</seg></tuv>
+<tuv xml:lang="ES"><seg>en el momento en el que no estaba viendo la persona malvada,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tju ro, kwi chen jon tontk&apos;on tja ro o.</seg></tuv>
+<tuv xml:lang="ES"><seg>saltó otra vez, giró y se fue.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ya tje o&apos; xi&apos; tsjoo&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>Llegó hasta el rio</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>jo chen m&apos;an sku tyondyee&apos;, ma&apos; hu xjen &apos;nein tyon</seg></tuv>
+<tuv xml:lang="ES"><seg>donde se encontraba la esposa del zorro, en ese momento agarró</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tyosu u&apos; tsjo tju ndo&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>la olla el conejo y la tiró,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ma&apos; sk&apos;a ndyö o&apos; ti&apos; sku</seg></tuv>
+<tuv xml:lang="ES"><seg>tomó con la mano a la esposa del amigo</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>tyo ndye e&apos; tyo o&apos; styo ti&apos; njoyoro ti&apos; tje</seg></tuv>
+<tuv xml:lang="ES"><seg>zorro, se la puso en su cuello y se la llevó.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ndjayu.</seg></tuv>
+<tuv xml:lang="ES"><seg>Llegó</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>No&apos; ya tje ti&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>(y cuando llegó)</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>b&apos;a jndë tje re tyondye, ndo&apos;</seg></tuv>
+<tuv xml:lang="ES"><seg>a la casa del amigo zorro</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>sku&apos; njoyon jndë njokini&apos;i nnu ndoba na nkja ts&apos;an</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;te traje a tu esposa, así es como se hace un buen trabajo,</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>ndya tke nkja ts&apos;an, tobe nkja tsindha ts&apos;an.</seg></tuv>
+<tuv xml:lang="ES"><seg>tienes que ir de manera madura, no a pelear.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Ndo&apos; sku&apos;.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Gracias&quot;.</seg></tuv> </tu>
+
+<tu creationdate="20240423T162641Z" creationid="LF Aligner 3.12"><prop type="Txt::Note">segments_amuzgo-segments_spanish</prop>
+<tuv xml:lang="AZG"><seg>Nkianaya u&apos; ndo&apos;, jndë ma&apos; jo tjaro tyosu je.</seg></tuv>
+<tuv xml:lang="ES"><seg> &quot;Ya me voy, pues&quot;, [y] se fue el conejo.</seg></tuv> </tu>
+
+
+</body>
+</tmx>
